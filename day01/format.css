@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgb(230, 219, 219);
+    height: 136vh;
+    width: auto;
+}
+
+.container h1 {
+    color: red;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.header {
+    height: 100px;
+    width: 1480px;
+    background-color: green;
+    border: 2px solid rgb(2, 2, 136);
+    margin: auto;
+}
+
+.header h2 {
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.sub-Header {
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+    width: 40%;
+    background-color: yellow;
+    margin: 5px 0px 5px 5px;
+    border: 2px solid rgb(2, 2, 136);
+
+}
+
+.logo h2 {
+    color: red;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.contact {
+    height: 50px;
+    width: 60%;
+    background-color: yellow;
+    margin: 5px;
+    border: 2px solid rgb(2, 2, 136);
+
+}
+
+.contact h2 {
+    color: red;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.nav-bar {
+    height: 80px;
+    width: 1480px;
+    background-color: blue;
+    margin: auto;
+    align-items: center;
+    align-items: center;
+    margin-top: 5px;
+    border: 2px solid rgb(2, 2, 136);
+
+}
+
+.nav-bar h1 {
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.side-bar {
+    height: 90vh;
+    width: 60vh;
+    background-color: rgb(166, 3, 3);
+    margin: 5px 5px 5px 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(2, 2, 136);
+}
+
+.side-bar h2 {
+    color: white;
+}
+
+.big-sec {
+    height: 90vh;
+    width: 1033px;
+    background-color: blueviolet;
+    border: 2px solid rgb(2, 2, 136);
+    margin: -90vh 20px 5px auto;
+}
+
+.big-sec p {
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.firstcontent {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.content1 {
+    height: 300px;
+    width: 490px;
+    background-color: gray;
+    border: 2px solid rgb(2, 2, 136);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.content2 {
+    height: 300px;
+    width: 490px;
+    background-color: gray;
+    border: 2px solid rgb(2, 2, 136);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.inner-section {
+    height: 300px;
+    width: 995px;
+    background-color: yellow;
+    border: 2px solid rgb(2, 2, 136);
+    margin: auto;
+}
+
+.inner-section p {
+    color: red;
+    padding: 5px;
+}
+
+.figures {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fig1,
+.fig2,
+.fig3 {
+    height: 250px;
+    width: 320px;
+    background-color: rgb(4, 90, 4);
+    border: 2px solid rgb(2, 2, 136);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.figures p {
+    color: white;
+}
+
+.footer {
+    height: 90px;
+    width: 1480px;
+    background-color: orange;
+    border: 2px solid rgb(2, 2, 136);
+    margin: auto;
+}
+
+.footer h2 {
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
