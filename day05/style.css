@@ -1,0 +1,11 @@
+h1 {
+  color: brown;
+  font-size: 50px;
+  background-color: green;
+}
+
+.sass-img img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
